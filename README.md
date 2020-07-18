@@ -1,5 +1,5 @@
 # Cluster-analysis
-A big mall that conatins the infromation of their clients. Clients have to give some infromation to get the membership card through this they collect those data of theri clients. 
+A big mall that conatins the infromation of their clients. Clients have to give some infromation to get the membership card through that way they collect those data of their clients. 
 Applied the clustering algorithms in the dataset to segment the customers into different Groups.
 Applied both K-means clustering and Hierarchical Clustering in the same dataset
 Features in the dataset:
